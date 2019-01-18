@@ -1,4 +1,0 @@
-Command Line : C:\Users\Owner\Desktop\Workshop 1\Workshop 1\Debug\Workshop 1.exe oop345 dps941 
-Maximum number of characters stored : 3
-0: oop
-1: dps
