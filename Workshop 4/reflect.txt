@@ -1,0 +1,18 @@
+/***************************************
+Name: Damirkhon Yodgorov
+
+Student Id: 108364175
+
+Seneca email: dyodgorov@myseneca.ca
+
+Date of completion: 2018-10-04
+
+***************************************/
+
+Reflection for the Workshop 4
+
+=> In this particular workshop I learned about the concept of composition of objects.
+In other words , I became familiar with how to include the objects of other classes in the new classes . 
+In addition to that , I refreshed my knowledge about the move operators and move assignment operators.
+Moreover , by completing this workshop I learned about the parsing strings  and storing them in the objects of other classes 
+which are read from the data files.

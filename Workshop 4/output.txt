@@ -1,0 +1,35 @@
+Script started on Thu 04 Oct 2018 12:38:37 PM EDT
+[dyodgorov@mtrx-node03pd Workshop 4]$ ws w4_prof_tweets.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w4_prof_tweets.dat 
+
+Notifications
+=============
+
+Message
+ User  : jim
+ Tweet : Workshop 5 is cool
+
+Message
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
+
+Message
+ User  : dave
+ Tweet : what the ^#$%!
+
+Message
+ User  : john
+ Reply : harry
+ Tweet : I'm done
+
+
+[38;5;9m------------------------
+End Testing the Program![0m
+[dyodgorov@mtrx-node03pd Workshop 4]$ exit
+exit
+
+Script done on Thu 04 Oct 2018 12:38:54 PM EDT
