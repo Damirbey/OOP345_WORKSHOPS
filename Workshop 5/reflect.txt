@@ -1,0 +1,13 @@
+Name : Damirkhon Yodgorov
+
+Student Id: 108364175
+
+Date: 2018-10-11
+
+Email: dyodgorov@myseneca.ca
+
+=> In this workshop I learned and practiced how to use Lambda expressions to return a value for the requested operators.
+In addition to that , I refreshed my knowledge about handling errors by practicing the commands like try, throw and catch. 
+Moreover, I also learned how to assign values and data which is read from the file to the object of the class.
+On the other hand , I prevented the copying , moving and assigning of an object in this assignment.
+
