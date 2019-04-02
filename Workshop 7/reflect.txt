@@ -1,0 +1,10 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+Reflection on Workshop 7 :
+
+=> In this workshop , I learned how to insert the data into the sequential containers , moreover 
+I became familiar with using the mathematical functions from the specific libraries to perform 
+the calculations . In addition to that , I refreshed my knowledge about the lambda expressions.
+On the other hand , I became known with the algorithm library in depth and learned how to use functions
+from the algorithm library. 
