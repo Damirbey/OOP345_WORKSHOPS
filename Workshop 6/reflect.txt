@@ -1,0 +1,8 @@
+Name : Damirkhon Yodgorov
+Student Id : 108364175
+
+=> In this workshop i learned about the STL containers , as well as refreshed my knowledge about polymorphic objects.
+In other words I became familiar with storing and managing polymorphic objects with the implementation of STL vector.
+While I was working on my workshop I had a little difficulty with the storage and management of polymorphic objects in STL 
+vector containers, but after refering to external resources and reading course material I have figured out how to solve that 
+issue. 
