@@ -1,0 +1,6 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+Reflection to Workshop 9:
+=> At the end of this workshop , I became familiar with how to write data to a file and read data from a file in a binary mode. Moreover, 
+I learned the concept of joining function to its arguments. On the other hand , I saw in practice how we can use threads for multi-tasking. 
