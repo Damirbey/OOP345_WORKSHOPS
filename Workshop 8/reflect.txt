@@ -1,0 +1,7 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+Reflection to Workshop 8:
+
+=> At the end of this workshop I became familiar with the usage of smart and raw pointers. In other words , I learned how to use 
+smart pointers to move the objects. Moreover, I saw a difference between using the smart pointers and raw pointers. 
