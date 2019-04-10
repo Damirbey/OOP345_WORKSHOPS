@@ -1,0 +1,6 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+=> Final project was very challenging and made me to see in practice every concept that I have learned in the class. 
+I have mastered my skills related to containers, filestreaming, move and copy constructors. In other words, I have practiced 
+everything that I have learned in class.
